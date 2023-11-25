@@ -12,9 +12,9 @@
 
 
 ## Currently Learning:
-- Flutter
-- HTML, CSS and JS
 - C/C++
+- HTML, CSS and JS
+- Flutter (probably?)
 
 
 ## 📫 How to reach me
