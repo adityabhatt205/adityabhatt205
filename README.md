@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hey!
 
-<!--
-**adityabhatt205/adityabhatt205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm Aditya Bhatt, a first-year student at the Indian Institute of Information and Technology (IIIT), Guwahati.   
+🎓 As a beginner, I am currently on an exploratory journey into the world of Computer Science.   
+🌐 Eager to learn and grow.   
+🚀 Let's connect and share the enthusiasm!   
 
-Here are some ideas to get you started:
+## Interests:
+- Python
+- Machine Learning
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Currently Learning:
+- Flutter
+- HTML, CSS and JS
+- C/C++
+
+
+## 📫 How to reach me
+
+- LinkedIn: [Aditya Bhatt](www.linkedin.com/in/adityabhatt205)
+- Instagram: [@its_aditya.b_205](https://www.instagram.com/its_aditya.b_205/)
+
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityabhatt205&show_icons=true&hide=issues&count_private=true)
+
+Thanks for stopping by! 😊
+
