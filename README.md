@@ -3,7 +3,6 @@
 👋 I'm Aditya Bhatt, a first-year student at the Indian Institute of Information and Technology (IIIT), Guwahati.   
 🎓 As a beginner, I am currently on an exploratory journey into the world of Computer Science.   
 🌐 Eager to learn and grow.   
-🚀 Let's connect and share the enthusiasm!   
 
 ## Interests:
 - Python
