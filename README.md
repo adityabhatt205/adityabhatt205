@@ -18,7 +18,7 @@
 
 ## 📫 How to reach me
 
-- LinkedIn: [Aditya Bhatt](www.linkedin.com/in/adityabhatt205)
+- LinkedIn: [@Aditya Bhatt](www.linkedin.com/in/adityabhatt205)
 - Instagram: [@its_aditya.b_205](https://www.instagram.com/its_aditya.b_205/)
 
 
